@@ -141,3 +141,8 @@ based on channel efficiency analysis.*
 
 ---
 
+## Author
+**Azar Taheri**
+ 
+[LinkedIn](https://linkedin.com/in/azar-taheri) 
+ 
